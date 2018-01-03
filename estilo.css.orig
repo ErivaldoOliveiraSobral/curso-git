@@ -1,8 +1,0 @@
-body {
-<<<<<<< HEAD
-	background-color: red;
-=======
-	background-color: green;
->>>>>>> c2618cba26919e8151ebdfcb9a9bd87f2e805f61
-	font-family: Arial;
-}
